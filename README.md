@@ -45,6 +45,10 @@ Here's the complete version containing all the chapters <a href="./chapters/nlp-
 &ensp;&ensp;&ensp;&ensp;year={2025}<br>
 }
 
+## Translations of This Book
+
+This book has been translated into multiple languages using LLMs. You can find these translations at [https://github.com/NiuTrans/NLPBookTranslations](https://github.com/NiuTrans/NLPBookTranslations). The available languages include Chinese, Japanese, French, and German, etc.
+
 ## Contact Us
 
 For any issues or comments, please feel free to contact the authors directly via e-mail: xiaotong [at] mail.neu.edu.cn
