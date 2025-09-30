@@ -47,7 +47,7 @@ Here's the complete version containing all the chapters <a href="./chapters/nlp-
 
 ## Translations of This Book
 
-This book has been translated into multiple languages using LLMs. You can find these translations at [https://github.com/NiuTrans/NLPBookTranslations](https://github.com/NiuTrans/NLPBookTranslations). The available languages include Chinese, Japanese, French, and German.
+This book has been translated into multiple languages using LLMs. You can find these translations at [https://github.com/NiuTrans/NLPBookTranslations](https://github.com/NiuTrans/NLPBookTranslations). The available languages include Chinese, Japanese, French, German, Italian and Portuguese.
 
 ## Contact Us
 
